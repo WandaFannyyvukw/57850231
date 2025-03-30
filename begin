@@ -1,3 +1,4 @@
+rs.close();
 // error processing code
 String driverClass = "oracle.jdbc.driver.OracleDriver";
 Class.forName(driverClass);
